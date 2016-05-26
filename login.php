@@ -96,6 +96,7 @@ if(login == 1){
                             </h3>
 							</center>
         </div>
+		<div>TestEdit</div>
                             <div class="list-group">
                                                     <div menuitemname="Already Registered Heading" class="list-group-item" id="Primary_Sidebar-Already_Registered-Already_Registered_Heading">
                                                         <a data-toggle="collapse" data-target="#how" class="" dir="rtl">كيف بإمكاني استعادة كلمة مروري اثناء نسياني لها ؟</a>
