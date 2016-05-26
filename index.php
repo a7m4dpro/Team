@@ -8,10 +8,11 @@ include"config.php";
 
 <!-- بداية اكواد HTML -->
 
-<html meta charset="UTF-8" dir="rtl">
+<html>
 
 
 	<head>
+		<meta charset="utf-8" />
 		<title> انفينت برودكشن </title>
 		<link rel='stylesheet' href='Bootstrap/bootstrap.css' />
 		<link rel='stylesheet' href='css/style.css' />
